@@ -1,1 +1,5 @@
 # Machine_Learning_Project_Trends_and_Projections_in_Media
+
+This project concerns the research question “Given the versatility of the film and TV features over time, how do the key features of a media influence the viewership and ratings of films and TV shows?”, with an emphasis on films. We focus on visualizations of key media features over time, and correlating target variable scoreIndex of media using Random Forest and Linear Regression machine learning models. We utilized systematic methods including data cleansing, data preprocessing, rigorous data analysis and interpretation, data visualization, k-means clustering for data labeling and decision trees.
+
+We found a subtle negative correlation in most quantitative features against time, and higher variability in features such as scores and genres as a result of increased sample size. Overall, despite scoreIndex prediction needing improvement due to limitations in the dataset and the potential overfitting, we provide a holistic understanding of the determinants of audience ratings, thus offering actionable insights to content strategists and creators for labelling there contents.
